@@ -1,0 +1,17 @@
+{
+  "name": "practice_3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mariano-escalera/demo_parcial3",
+  "authors": [
+    "Lau <laruku.cosmes@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}
